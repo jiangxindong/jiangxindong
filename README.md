@@ -1,3 +1,8 @@
+const Person = {
+  name: jiangxindong,
+  hobbies: [Games, Cycling, Reading, BasketBall, Geek],
+};
+
 - 你好，我是jiangxindong
 - 兴趣爱好是，游戏、骑行、读书、篮球、折腾技术
 - 目前正在学习前端，Javascript、nodejs、Vue、算法、数据结构、设计模式
